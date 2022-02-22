@@ -22,6 +22,7 @@ itch.io link: https://eliyahup.itch.io/icy-tower-mickey-mouse
 עשיתי שהמצלמה תהיה על השחקן ותזוז רק בציר הY כמו במשחק המקורי
 [cameraMove](https://github.com/eli-game-dev/icy-Tower-mickey-mouse/blob/main/Assets/scripts/cameraMove.cs)
 
+![Screenshot (63)](https://user-images.githubusercontent.com/57856087/155162010-a69c2685-11eb-42c5-bda8-dcd91c4fae1f.png)
 
 
 </div>
